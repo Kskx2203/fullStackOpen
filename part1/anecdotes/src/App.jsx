@@ -26,7 +26,6 @@ const App = () => {
       setMax(newVote[selected])
       setmostVoted(selected)
     }
-      setMax(max)
   }
 
   return (
